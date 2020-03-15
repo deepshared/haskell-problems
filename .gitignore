@@ -1,0 +1,11 @@
+*~
+.\#*
+\#*\#
+*.orig
+*.rej
+*.swp
+.ghc.environment.*
+
+dist
+dist-newstyle
+.stack-work
